@@ -7,6 +7,8 @@ sites:
   - name: Homepage
     url: https://www.bhaptics.com
     maxResponseTime: 8000
+    assignees:
+    - robertttttttto
   - name: Auth
     url: https://auth.bhaptics.com
     maxResponseTime: 8000
@@ -19,8 +21,6 @@ sites:
   - name: Docs
     url: https://docs.bhaptics.com
     maxResponseTime: 8000
-assignees:
-  - robertttttttto
 
 status-website:
   baseUrl: /uptime-checker
