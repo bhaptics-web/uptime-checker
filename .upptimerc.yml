@@ -5,18 +5,28 @@ repo: uptime-checker # The name of this repository
 sites:
   - name: Homepage
     url: https://www.bhaptics.com
+    maxResponseTime: 8000
   - name: Auth
-    url: https://auth.bhaptics.com  
+    url: https://auth.bhaptics.com
+    maxResponseTime: 8000
   - name: Designer
     url: https://designer.bhaptics.com
+    maxResponseTime: 8000
   - name: Developer Portal
     url: https://developer.bhaptics.com
+    maxResponseTime: 8000
   - name: Docs
     url: https://docs.bhaptics.com
+    maxResponseTime: 8000
 
 status-website:
   baseUrl: /uptime-checker # where "repo" is your repository name
   name: Your Status Website
+  navbar:
+  - title: Status
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
