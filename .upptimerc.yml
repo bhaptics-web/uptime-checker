@@ -1,7 +1,7 @@
 # Change these first
-owner: bhaptics-web # Your GitHub organization or username, where this repository lives
-repo: uptime-checker # The name of this repository
-user-agent: bhaptics-web
+owner: bhaptics-web
+repo: uptime-checker
+user-agent: uptime-checker
 
 sites:
   - name: Homepage
@@ -25,7 +25,7 @@ sites:
 status-website:
   baseUrl: /uptime-checker
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg  
-  name: Your Status Website
+  name: bHaptics Uptime Status
   navbar:
   - title: Status
     href: /
@@ -33,8 +33,7 @@ status-website:
     - name: "robots"
       content: "noindex"    
 
-status-page:
-  robotsText: "User-agent: * \n Disallow: /"
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
