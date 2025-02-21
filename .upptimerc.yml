@@ -20,7 +20,7 @@ sites:
     maxResponseTime: 8000
 
 status-website:
-  baseUrl: /uptime-checker # where "repo" is your repository name
+  baseUrl: /uptime-checker
   name: Your Status Website
   navbar:
   - title: Status
