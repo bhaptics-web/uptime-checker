@@ -19,6 +19,8 @@ sites:
   - name: Docs
     url: https://docs.bhaptics.com
     maxResponseTime: 8000
+assignees:
+  - robertttttttto
 
 status-website:
   baseUrl: /uptime-checker
