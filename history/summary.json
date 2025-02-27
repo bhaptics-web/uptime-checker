@@ -4,19 +4,19 @@
     "url": "https://www.bhaptics.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bhaptics.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 841,
-    "timeDay": 741,
-    "timeWeek": 841,
-    "timeMonth": 841,
-    "timeYear": 841,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 831,
+    "timeDay": 704,
+    "timeWeek": 831,
+    "timeMonth": 831,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2025-02-27": 1
+      "2025-02-27": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://auth.bhaptics.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.bhaptics.com.ico",
     "slug": "auth",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1841,
-    "timeDay": 10364,
-    "timeWeek": 1841,
-    "timeMonth": 1841,
-    "timeYear": 1841,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1767,
+    "timeDay": 7082,
+    "timeWeek": 1767,
+    "timeMonth": 1767,
+    "timeYear": 1767,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 17
     }
   },
   {
