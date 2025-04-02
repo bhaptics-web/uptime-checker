@@ -1,7 +1,7 @@
 url: https://auth.bhaptics.com
-status: degraded
-code: 500
-responseTime: 20230
-lastUpdated: 2025-04-02T06:58:59.416Z
+status: up
+code: 200
+responseTime: 454
+lastUpdated: 2025-04-02T07:14:58.730Z
 startTime: 2025-02-21T11:24:23.518Z
 generator: Upptime <https://github.com/upptime/upptime>
