@@ -70,19 +70,19 @@
     "url": "https://designer.bhaptics.com",
     "icon": "https://icons.duckduckgo.com/ip3/designer.bhaptics.com.ico",
     "slug": "designer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 146,
-    "timeWeek": 560,
-    "timeMonth": 383,
-    "timeYear": 434,
+    "time": 435,
+    "timeDay": 335,
+    "timeWeek": 556,
+    "timeMonth": 388,
+    "timeYear": 435,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 5
     }
   },
   {
